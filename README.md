@@ -7,7 +7,6 @@
 ## Features
 - Publicly accessible  
 - Contains a README file  
-- Open for contributions  
 
 ## About Me
 Hi, I'm Holly Briggs, a software engineering student! 
