@@ -1,3 +1,9 @@
+# 👋 Hi, I'm Holly Briggs!
+
+🚀 **Aspiring Software Developer | Software Engineering Student**  
+🎓 **Brigham Young University - Idaho (Software Development, 4.0 GPA)**  
+💻 Passionate about coding, problem-solving, and user-friendly applications.  
+
 ## Features
 - Publicly accessible  
 - Contains a README file  
@@ -25,6 +31,32 @@ I thrive on learning new technologies, collaborating with teams, and solving com
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 💼 Work Experience  
+
+### **Graphic Designer & Human Factors | Novell Inc. (2000-2005)**  
+- 🖥️ Designed UI/UX assets (icons, buttons, splash screens) for **GroupWise, ZENworks, NetWare, and Single Sign-On**.  
+- 🎨 Developed web interfaces with **Adobe Photoshop, Illustrator, Dreamweaver, Flash, HTML, and CSS**.  
+- 🔎 Conducted heuristic and accessibility testing to improve usability.  
+
+### **Web Developer | Utah Valley State College (2000)**  
+- 💻 Built interactive webpages and **Flash applications** for university projects.  
+- 🌐 Developed UI/UX assets and optimized web performance.  
+
+## 📊 GitHub Stats
+
+![Holly's GitHub stats](https://github-readme-stats.vercel.app/api?username=hollybriggs&show_icons=true&theme=tokyonight)
+
+## 🤝 Volunteer Work  
+
+**📍 Volunteer Sunday School Pianist | Orem Utah (2023 - now)**  
+- Play piano for Childrens sunday school classes weekly.
+
+**📍 Family History Consultant | Orem Utah (2012-now)**  
+- Teaches introductory classes on Genealogy research.
+
+**📍 Full-Time Missionary | Indiana Indianapolis Mission (2003-2004)**  
+- Led **humanitarian projects** and **tutored in adult literacy programs**.  
+- **Taught English classes** for non-native speakers.  
 
 
 
