@@ -44,7 +44,7 @@ I thrive on learning new technologies, collaborating with teams, and solving com
 
 ## 📊 GitHub Stats
 
-![Holly's GitHub stats](https://github-readme-stats.vercel.app/api?username=hollybriggs&show_icons=true&theme=tokyonight)
+![Holly's GitHub stats](https://github-readme-stats.vercel.app/api?username=hollypie&show_icons=true&theme=tokyonight)
 
 ## 🤝 Volunteer Work  
 
