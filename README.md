@@ -1,4 +1,10 @@
-## Hi there 👋
+## Features
+- Publicly accessible  
+- Contains a README file  
+- Open for contributions  
+
+## About Me
+Hi, I'm Holly Briggs, a software engineering student! 🚀
 
 <!--
 **Hollypie/Hollypie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
