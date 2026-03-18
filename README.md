@@ -1,23 +1,19 @@
 # 👋 Hi, I'm Holly Briggs!
 
-🚀 **Aspiring Software Developer | Software Engineering Student**  
+🚀 Software Developer | UI/UX-Focused | Former Human Factors @ Novell
 🎓 **Brigham Young University - Idaho (Software Development, 4.0 GPA)**  
 💻 Passionate about coding, problem-solving, and user-friendly applications.  
 
-## Features
-- Publicly accessible  
-- Contains a README file  
-
 ## About Me
-Hi, I'm Holly Briggs, a software engineering student! 
 
-As a Software Engineering student with a 4.0 GPA at BYU-Idaho, I am passionate about coding, problem-solving, and creating user-friendly software. With a background in UI/UX design and graphic design from my early career at Novell and Utah Valley University, I bring a unique blend of technical and creative skills to software development.
+I'm a software engineering student at BYU-Idaho with a 4.0 GPA and a background in UI/UX design and web development.
 
-My expertise includes Python, C#, JavaScript, MySQL, HTML, and CSS, along with a strong foundation in software testing, databases, and web development. I have hands-on experience with tools like VS Code, GitHub, MySQL Workbench, and Adobe Creative Suite, which enhance both my development and design capabilities.
+- 💡 Former human factors team member at Novell
+- 🎨 Strong in usability, accessibility, and frontend design
+- ⚙️ Experienced in Python, C#, JavaScript, and web technologies
+- 🔍 Interested in frontend, backend, and software testing roles
 
-Currently seeking a software development internship, I am eager to apply my skills in frontend and backend development, software testing, and user-centered design to real-world projects. My past work in heuristic testing, accessibility, and UI asset creation has shaped my approach to building intuitive and efficient applications.
-
-I thrive on learning new technologies, collaborating with teams, and solving complex problems. Let's connect—I'd love to explore opportunities in software development!🚀
+Currently seeking a software development internship where I can build user-focused, high-quality applications.
 
 ### 🚀 Skills & Technologies  
 
@@ -30,6 +26,18 @@ I thrive on learning new technologies, collaborating with teams, and solving com
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 💼 Education
+
+**Brigham Young University – Idaho**  
+Bachelor of Science, Software Development (Expected Dec 2026) — GPA: 4.0  
+
+- Associate of Applied Science in Software Development  
+- Certificate in Web Development  
+- Certificate in Web & Computer Programming  
+
+**Utah Valley University**  
+Associate of Applied Science, Multimedia Communication Technology (2000)
+
 ## 💼 Work Experience  
 
 ### **Graphic Designer & Human Factors | Novell Inc. (2000-2005)**  
@@ -41,9 +49,9 @@ I thrive on learning new technologies, collaborating with teams, and solving com
 - 💻 Built interactive webpages and **Flash applications** for university projects.  
 - 🌐 Developed UI/UX assets and optimized web performance.  
 
-## 📊 GitHub Stats
+## Let's Connect!
 
-![Holly's GitHub stats](https://github-readme-stats.vercel.app/api?username=hollypie&show_icons=true&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/holly-kinser-briggs-2aa360237)
 
 ## 🤝 Volunteer Work  
 
@@ -57,19 +65,3 @@ I thrive on learning new technologies, collaborating with teams, and solving com
 - Led **humanitarian projects** and **tutored in adult literacy programs**.  
 - **Taught English classes** for non-native speakers.  
 
-
-
-<!--
-**Hollypie/Hollypie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
