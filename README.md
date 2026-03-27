@@ -25,10 +25,35 @@ Currently seeking a software development internship where I can build user-focus
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  
+## 💼 Education
+
+**Brigham Young University – Idaho**  
+Bachelor of Science, Software Development (Expected Dec 2026) — GPA: 4.0  
+
+- Associate of Applied Science in Software Development  
+- Certificate in Web Development  
+- Certificate in Web & Computer Programming  
+
+**Utah Valley University**  
+Associate of Applied Science, Multimedia Communication Technology (2000)
+
+## 💼 Work Experience  
+
+### **Graphic Designer & Human Factors | Novell Inc. (2000-2005)**  
+- 🖥️ Designed UI/UX assets (icons, buttons, splash screens) for **GroupWise, ZENworks, NetWare, and Single Sign-On**.  
+- 🎨 Developed web interfaces with **Adobe Photoshop, Illustrator, Dreamweaver, Flash, HTML, and CSS**.  
+- 🔎 Conducted heuristic and accessibility testing to improve usability.  
+
+### **Web Developer | Utah Valley State College (2000)**  
+- 💻 Built interactive webpages and **Flash applications** for university projects.  
+- 🌐 Developed UI/UX assets and optimized web performance.  
+
+## Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/holly-kinser-briggs-2aa360237)
 
 ## 🚀 Projects
-
-🚀 Projects
 
 🎲 Board Game Finder (JavaScript, API Integration)
 
@@ -63,34 +88,6 @@ github repo: https://github.com/Hollypie/wdd131.git - its under the folder "proj
 - Implemented consistent navigation and page organization to support a cohesive user journey across blog entries  
 - Applied responsive design principles to ensure usability across different screen sizes  
 - Emphasized clean visual design and content hierarchy to enhance long-form reading and reflection  
-
-  
-## 💼 Education
-
-**Brigham Young University – Idaho**  
-Bachelor of Science, Software Development (Expected Dec 2026) — GPA: 4.0  
-
-- Associate of Applied Science in Software Development  
-- Certificate in Web Development  
-- Certificate in Web & Computer Programming  
-
-**Utah Valley University**  
-Associate of Applied Science, Multimedia Communication Technology (2000)
-
-## 💼 Work Experience  
-
-### **Graphic Designer & Human Factors | Novell Inc. (2000-2005)**  
-- 🖥️ Designed UI/UX assets (icons, buttons, splash screens) for **GroupWise, ZENworks, NetWare, and Single Sign-On**.  
-- 🎨 Developed web interfaces with **Adobe Photoshop, Illustrator, Dreamweaver, Flash, HTML, and CSS**.  
-- 🔎 Conducted heuristic and accessibility testing to improve usability.  
-
-### **Web Developer | Utah Valley State College (2000)**  
-- 💻 Built interactive webpages and **Flash applications** for university projects.  
-- 🌐 Developed UI/UX assets and optimized web performance.  
-
-## Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/holly-kinser-briggs-2aa360237)
 
 ## 🤝 Volunteer Work  
 
