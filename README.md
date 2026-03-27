@@ -26,6 +26,39 @@ Currently seeking a software development internship where I can build user-focus
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 🚀 Projects
+
+🚀 Projects
+
+🎲 Board Game Finder (JavaScript, API Integration)
+🔗 https://hollypie.github.io/wdd231/project/index.html
+github repo: https://github.com/Hollypie/cse341_boardgameapi.git
+- Built a dynamic web application that recommends board games based on user-selected criteria such as player count, complexity, and game type  
+- Integrated the BoardGameGeek API and transformed XML data into JSON for easier processing  
+- Implemented interactive UI features including DOM manipulation, localStorage, and modal dialogs for displaying game details and reviews  
+- Focused on creating a user-friendly interface with responsive design principles  
+
+🌌 NightWatch Web App (JavaScript, APIs, Astronomy Data)  
+🔗 https://hollypie.github.io/nightwatch/
+github repo: https://github.com/Hollypie/nightwatch.git
+- Developed an interactive astronomy dashboard featuring real-time data and educational tools  
+- Integrated multiple APIs including NASA and weather services to display:
+  - International Space Station (ISS) tracker  
+  - Moon phase indicator  
+  - Astronomy Picture of the Day (APOD)  
+- Designed a clean, intuitive UI to present complex data in an accessible and engaging way  
+- Strengthened skills in asynchronous JavaScript, API handling, and data visualization
+
+📖 Faithful Pages – Scripture Journaling Blog (HTML, CSS, Web Development)  
+🔗 https://hollypie.github.io/wdd131/project/index.html
+github repo: https://github.com/Hollypie/wdd131.git - its under the folder "project"
+- Designed and developed a multi-page scripture journaling blog to record and organize spiritual insights, study notes, and reflections  
+- Built structured, accessible layouts using HTML and CSS with a focus on readability, typography, and user experience  
+- Implemented consistent navigation and page organization to support a cohesive user journey across blog entries  
+- Applied responsive design principles to ensure usability across different screen sizes  
+- Emphasized clean visual design and content hierarchy to enhance long-form reading and reflection  
+
+  
 ## 💼 Education
 
 **Brigham Young University – Idaho**  
