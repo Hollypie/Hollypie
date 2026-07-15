@@ -33,7 +33,8 @@ Bachelor of Science, Software Development (Expected Dec 2026) — GPA: 4.0
 
 - Associate of Applied Science in Software Development  
 - Certificate in Web Development  
-- Certificate in Web & Computer Programming  
+- Certificate in Web & Computer Programming
+- Certificate in Software Development
 
 **Utah Valley University**  
 Associate of Applied Science, Multimedia Communication Technology (2000)
